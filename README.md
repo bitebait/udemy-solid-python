@@ -58,7 +58,7 @@ Por exemplo, se você estiver usando uma função e seu colega alterar a classe 
 
 ​
 
-![bbd40423a935afb76675b0788b02e4f5.png](:/7f0a5acbb43749018784e182abb8369e)
+![1*vXv5w1V6iHhQLM2GpVarEQ.png](https://miro.medium.com/max/690/1*vXv5w1V6iHhQLM2GpVarEQ.png)
 *Image Source: https://medium.com/@tbaragao/solid-l-s-p-liskov-substitution-principle-3a31c3a7b49e*
 
 ​
